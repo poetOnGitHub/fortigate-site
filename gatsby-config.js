@@ -8,6 +8,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
+    `gatsby-plugin-netlif`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -20,7 +21,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
+        name: `GHow to factory reset lol`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#663399`,
