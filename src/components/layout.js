@@ -40,9 +40,9 @@ const Layout = ({ children }) => {
             fontSize: `var(--font-sm)`,
           }}
         >
-          © {new Date().getFullYear()} &middot; Built with
+          © {new Date().getFullYear()} &middot; This is kinda only half serious (kinda 👀) so please don't get <a href="https://www.youtube.com/watch?v=xzpndHtdl9A">mad</a> at the person who sent you here.
           {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          <a href="https://www.gatsbyjs.com">Built with GatsbyJS</a>
         </footer>
       </div>
     </>

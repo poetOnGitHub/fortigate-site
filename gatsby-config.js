@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `Fortigate Reset Guide`,
+    description: `How I spent 4 hours trying to figure out how to factory reset a fortgate 80e`,
+    author: `@poetologe`,
+    siteUrl: `https://fortigate.group-ten.systems`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
